@@ -1,6 +1,6 @@
 # Netflix_Rating_Prediction
 Here are the Jupyter Notebooks that we used in order to create our models for the DSCI 303 Final Project.
-
+* Data_Preparation: Creates the cleaned data subset that we use for the other notebooks. Run this first with a data_folder directory in the root directory.
 * KNN_Netflix: Contains the code used for KNN.
 * Collaborative_Filtering_Netflix: Contains the code used for Collaborative Filtering.
 
